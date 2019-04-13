@@ -12,6 +12,6 @@
 [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency)
 
 ### Interesting videos
-[Dave Cheney - Concurrency made easy - GopherCon SG 2017](https://www.youtube.com/watch?v=yKQOunhhf4A)
-[GopherCon UK 2018: Roberto Clapis - Goroutines: The Dark Side of the Runtime](https://www.youtube.com/watch?v=4CrL3Ygh7S0)
-[Golang UK Conference 2017 | Arne Claus - Concurrency Patterns in Go](https://www.youtube.com/watch?v=rDRa23k70CU)
+[Dave Cheney - Concurrency made easy - GopherCon SG 2017](https://www.youtube.com/watch?v=yKQOunhhf4A)   
+[GopherCon UK 2018: Roberto Clapis - Goroutines: The Dark Side of the Runtime](https://www.youtube.com/watch?v=4CrL3Ygh7S0)   
+[Golang UK Conference 2017 | Arne Claus - Concurrency Patterns in Go](https://www.youtube.com/watch?v=rDRa23k70CU)   
