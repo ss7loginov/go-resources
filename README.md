@@ -12,7 +12,9 @@
 [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency)
 ### Go algorithms and data structures
 [https://github.com/0xAX/go-algorithms](https://github.com/0xAX/go-algorithms)   
-[https://github.com/Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
+[https://github.com/Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)  
+[cofee shop simulation](https://github.com/Sajmani/dotgo/tree/master/coffee)  
+
 
 ### Interesting videos
 [Dave Cheney - Concurrency made easy - GopherCon SG 2017](https://www.youtube.com/watch?v=yKQOunhhf4A)   
